@@ -1,2 +1,2 @@
-# Kaggle_Notebook
+# Kaggle-Notebook
 Kaggleで作成したNotebook
